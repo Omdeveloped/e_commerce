@@ -126,6 +126,10 @@ header {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     background-color: aqua;
   }
+  .images {
+  max-width: 150px;
+  max-height: 150px;
+  }
 }
 
 span {
