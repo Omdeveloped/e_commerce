@@ -117,7 +117,7 @@ header {
   }
   .typeing {
     float: right;
-    width: 400px;
+    width: 100vw;
     height: 50px;
     padding-right: 30px;
   }
